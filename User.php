@@ -1,11 +1,12 @@
 <?php
     class User
     {
-        public $username
+        public $username;
         private $isLogged = false;
         
         public function login()
         {
+            
         }
         
         public function logout()
